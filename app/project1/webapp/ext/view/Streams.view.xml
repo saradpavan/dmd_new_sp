@@ -1,0 +1,5 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:macros="sap.fe.macros" xmlns:html="http://www.w3.org/1999/xhtml" controllerName="project1.ext.view.Streams">
+    <macros:Page id="Page" title="streams">
+        <macros:Table id="Table" metaPath="mockstreams/@com.sap.vocabularies.UI.v1.LineItem#tableMacro2"/>
+    </macros:Page>
+</mvc:View>
